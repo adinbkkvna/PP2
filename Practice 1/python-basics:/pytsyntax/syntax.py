@@ -1,7 +1,7 @@
 if 5 > 2:
   print("Five is greater than two!")
 
-#suntax error
+#syntax error
   if 5 > 2:
     print("Five is greater than two!")
 
