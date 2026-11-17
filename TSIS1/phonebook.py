@@ -248,7 +248,6 @@ def import_from_json():
                 """, (
                     first_name,
                     last_name,
-                    phones[0]["phone"] if phones else "",
                     email,
                     birthday,
                     group_id
