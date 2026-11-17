@@ -1,0 +1,305 @@
+[
+    {
+        "first_name": "Adina",
+        "last_name": "Kuralbek",
+        "email": null,
+        "birthday": null,
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "+77011234567",
+                "type": "mobile"
+            },
+            {
+                "phone": "+77015556677",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "first_name": "Madina",
+        "last_name": "Saparova",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77021234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Amina",
+        "last_name": "Alimova",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77031234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Malika",
+        "last_name": "Serikova",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77041234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Aruzhan",
+        "last_name": "Nurpeisova",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77051234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Diana",
+        "last_name": "Iskakova",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77061234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Aigerim",
+        "last_name": "Bekova",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77071234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Dana",
+        "last_name": "Abdullina",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77081234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Aliya",
+        "last_name": "Smagulova",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77091234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Kamila",
+        "last_name": "Omarova",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77101234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Nursultan",
+        "last_name": "Akhmetov",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77111234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Dias",
+        "last_name": "Ismailov",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77121234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Arman",
+        "last_name": "Tulegenov",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77131234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Alikhan",
+        "last_name": "Musin",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77141234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Timur",
+        "last_name": "Karimov",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77151234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Asel",
+        "last_name": "Zhaksylyk",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77161234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Miras",
+        "last_name": "Abayev",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77171234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Sanzhar",
+        "last_name": "Ermekov",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77181234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Zhanel",
+        "last_name": "Bolatova",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77191234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Aruzhan",
+        "last_name": "Kassymova",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77201234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Test",
+        "last_name": "Student",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77011234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Aruzhan",
+        "last_name": "Kassym",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77011234567",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "first_name": "Amina",
+        "last_name": "Ali",
+        "email": null,
+        "birthday": null,
+        "group": "Other",
+        "phones": [
+            {
+                "phone": "+77015556677",
+                "type": "mobile"
+            }
+        ]
+    }
+]
