@@ -1,0 +1,25 @@
+import pygame
+class Ball:
+    def __init__(self, x, y):
+        self.x = x
+        self.y = y
+        self.radius = 25
+        self.speed = 20
+        self.color = (255, 0, 0)
+
+    def move(self, dx, dy, width, height):
+        new_x = self.x + dx
+        new_y = self.y + dy
+
+        if self.radius <= new_x <= width - self.radius:
+            if self.radius <= new_y <= height - self.radius:
+                self.x = new_x
+                self.y = new_y
+
+    def draw(self, screen):
+        pygame.draw.circle(
+            screen,
+            self.color,
+            (self.x, self.y),
+            self.radius
+        )
