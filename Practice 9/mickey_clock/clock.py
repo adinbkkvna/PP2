@@ -40,3 +40,6 @@ class MickeyClock:
             second_angle, pygame.Vector2(18, 75)
         )
         pygame.draw.circle(screen, (0, 0, 0), (325, 325), 6)
+
+
+
